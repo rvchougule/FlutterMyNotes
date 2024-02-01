@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297762121711",
+    "project_id": "waste-collector-project",
+    "storage_bucket": "waste-collector-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297762121711:android:1c9bac365e6c35ec7a381a",
+        "android_client_info": {
+          "package_name": "com.example.waste_collector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcxPNphDA-YFDKcNy0DvPpkURxbuhQL5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
